@@ -31,7 +31,7 @@ const Header = () => (
           </Nav>
         </Navbar.Collapse>
       </Navbar>
-      <h1 className="text-center">Submit</h1>
+      <h1 className="text-center" style={{padding: "20px 0"}}>Submit</h1>
       <div className="container" style={{
         position: "absolute",
         width: "100%",
