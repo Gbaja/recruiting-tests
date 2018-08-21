@@ -57,17 +57,17 @@ const Form = () => (
         <Row className="show-grid">
           <Col md={4} className="text-left">
             <p>Campaign</p>
-            <h2>The innovation title is shown here</h2>
+            <h3>The innovation title is shown here</h3>
             <p>11 Apr 2016</p>
           </Col>
           <Col md={4} className="text-left">
             <p>Campaign</p>
-            <h2>The innovation title is shown here</h2>
+            <h3>The innovation title is shown here</h3>
             <p>11 Apr 2016</p>
           </Col>
           <Col md={4} className="text-left">
             <p>Campaign</p>
-            <h2>The innovation title is shown here</h2>
+            <h3>The innovation title is shown here</h3>
             <p>11 Apr 2016</p>
           </Col>
         </Row>
